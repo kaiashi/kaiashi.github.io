@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    height: 200vh;
+    height: 145vh;
 }
 #particles-js{
     width: 100%;
@@ -18,9 +18,13 @@ left: 50%;
 transform: translate(-50%, -50%);
 color: aliceblue;
 font-family: 'Roboto', sans-serif;
-
 }
-*{
-    size: auto;
+.cc:hover{
+    color: #5a5a5a;
 }
-
+.ccc:hover{
+    color: #ad9f9f;
+}
+.cccc:hover{
+    color: #d1d1d18a;
+}
