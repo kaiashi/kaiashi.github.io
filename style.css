@@ -20,11 +20,20 @@ color: aliceblue;
 font-family: 'Roboto', sans-serif;
 }
 .cc:hover{
-    color: #5a5a5a;
+    color: #fdfdfd;
+    text-shadow: 0 0 10px #c3fff9,0 0 20px #c3fff9, 0 0 40px #c3fff9, 0 0 80px #c3fff9, 0 0 100px #c3fff9, 0 0 110px #c3fff9;
+    
 }
 .ccc:hover{
-    color: #ad9f9f;
+    color: #fdfdfd;
+    text-shadow: 0 0 10px #c3fff9,0 0 20px #c3fff9, 0 0 40px #c3fff9, 0 0 80px #c3fff9, 0 0 100px #c3fff9, 0 0 110px #c3fff9;
 }
 .cccc:hover{
-    color: #d1d1d18a;
+    color: #e8faf8;
+    text-shadow: 0 0 10px #c3fff9,0 0 20px #c3fff9, 0 0 40px #c3fff9, 0 0 80px #c3fff9, 0 0 100px #c3fff9, 0 0 110px #c3fff9;
+}
+.neon{
+    text-shadow: 0 0 10px #ff7777,0 0 20px #ff7777, 0 0 40px #ff7777, 0 0 80px #ff7777, 0 0 100px #ff7777, 0 0 120px #ff7777;
+/*box-shadow: 0 0 10px #ff7777,0 0 20px #ff7777, 0 0 40px #ff7777, 0 0 80px #ff7777, 0 0 100px #ff7777, 0 0 120px #ff7777;    
+*/
 }
